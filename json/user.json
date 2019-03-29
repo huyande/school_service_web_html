@@ -1,0 +1,31 @@
+{
+	"aData":[
+        {
+            "id": 230,
+            "openid": "o5hD-44zN3233QhYdPbu-OtU05II",
+            "nickname": "发条陳",
+            "avatarurl": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTL7jOVvA3ek3yIPDJmOzeC6oCmIGHnTD0k0ic8Ttyg24icSiasK71UKKhK21gNia7XfnOb2tzicR1CeHJw/132",
+            "province": "",
+            "city": "Israel",
+            "gender": 2,
+            "email": null,
+            "phonenumber": null,
+            "signtime": "2019-03-03 14:33:10",
+            "recenttime": null
+        },
+        {
+            "id": 231,
+            "openid": "o5hD-44zN3233QhYdPbu-OtU05I2",
+            "nickname": "发条陳",
+            "avatarurl": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTL7jOVvA3ek3yIPDJmOzeC6oCmIGHnTD0k0ic8Ttyg24icSiasK71UKKhK21gNia7XfnOb2tzicR1CeHJw/132",
+            "province": "",
+            "city": "Israel",
+            "gender": 1,
+            "email": null,
+            "phonenumber": null,
+            "signtime": "2019-03-03 14:33:39",
+            "recenttime": null
+        }
+    ]
+
+}
