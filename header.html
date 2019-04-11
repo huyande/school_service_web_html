@@ -1,0 +1,29 @@
+<!--header start-->
+<header class="header white-bg">
+	<div class="sidebar-toggle-box">
+		<div class="fa fa-bars tooltips" data-placement="right" data-original-title="Toggle Navigation"></div>
+	</div>
+	<!--logo start-->
+	<a href="index.html" class="logo">校园<span>表白墙</span></a>
+	<!--logo end-->
+
+	<div class="top-nav ">
+		<ul class="nav pull-right top-menu">
+			<!-- user login dropdown start-->
+			<li class="dropdown">
+				<a data-toggle="dropdown" class="dropdown-toggle" href="#">
+					<img alt="" src="img/avatar1_small.jpg">
+					<span class="username">Jhon Doue</span>
+					<b class="caret"></b>
+				</a>
+				<ul class="dropdown-menu extended logout">
+					<div class="log-arrow-up"></div>
+					<li>
+						<a href="login.html"><i class="fa fa-key"></i> Log Out</a>
+					</li>
+				</ul>
+			</li>
+			<!-- user login dropdown end -->
+		</ul>
+	</div>
+</header>
