@@ -1,20 +1,5 @@
 var Script = function () {
-
-    //morris chart
-
     $(function () {
-      // data stolen from http://howmanyleft.co.uk/vehicle/jaguar_'e'_type
-     /* Morris.Donut({
-        element: 'hero-donut',
-        data: [
-          {label: '男', value: 25 },
-          {label: '女', value: 40 },
-          {label: '未知', value: 35 }
-        ],
-          colors: ['#41cac0', '#EE6AA7', '#34a39b'],
-        formatter: function (y) { return y + "%" }
-      });
-*/
 	$.ajax({
     		url:"http://localhost:84/admin/user/sexcount",
     		type:"GET",

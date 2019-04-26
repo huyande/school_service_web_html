@@ -1,0 +1,73 @@
+.my_span_user{
+	align-content: center;
+	font-family: 'arial';
+	font-size: 120px;
+	position: relative;
+	left: 70px;
+	top: 60px;
+	color: #61A642;
+}
+
+.my_span_conf{
+	align-content: center;
+	font-family: 'arial';
+	font-size: 120px;
+	position: relative;
+	left: 20px;
+	top: 60px;
+	color: #61A642;
+}
+
+.my_span_user_count{
+	align-content: center;
+	font-family: 'arial';
+	font-size: 120px;
+	position: relative;
+	left: 60px;
+	top: 60px;
+	color: #E56155;
+}
+
+.my_span_conf_count{
+	align-content: center;
+	font-family: 'arial';
+	font-size: 120px;
+	position: relative;
+	left: 20px;
+	top: 60px;
+	color: #E56155;
+}
+
+
+#header{
+	border:1px dashed #F00; 
+	height: 60px;
+	width: 100%;
+}
+
+#menu{
+	border:1px dashed #0000FF; 
+	width: 210px;
+    height: 100%;
+	position: fixed;
+	overflow: scroll; 
+
+}
+#content{
+	border:1px dashed #C77405; 
+	height: 655px;
+	width: auto;
+	position: absolute;
+	left: 200px;
+	top: 60px;
+	overflow-x: hidden;
+}
+
+#footer{
+	border:1px dashed #008000; 
+	height: 40px;
+	position: fixed;
+	width: 100%;
+    bottom: 0px;
+    left: 0px;
+}
